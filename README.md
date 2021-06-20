@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @willbeason
-- In my spare time I develop games driven by deep simulations.
+- In my spare time I develop tools for solving differential equations (and making them into art), and design games driven by deep simulations.
 - For my day job I contribute to Open Policy Agent and work on Kubernetes for Google.
