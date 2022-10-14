@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @willbeason
+- I'm a PhD Student at the University of Texas at Austin studying Information Studies, focusing on the ethical use of Artificial Intelligence.
 - In my spare time I develop tools for solving differential equations (and making them into art), and design games driven by deep simulations.
-- For my day job I contribute to Open Policy Agent and work on Kubernetes for Google.
